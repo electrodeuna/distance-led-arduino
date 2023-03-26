@@ -1,4 +1,4 @@
-# Poryecto con Arduino y Sensor Ultrasónico
+# Proyecto con Arduino y Sensor Ultrasónico
 
 ## Componentes
 
